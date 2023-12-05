@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheqerelilo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Machine Organization & Languages and Automata
+- 🌱 I’m currently learning Computer Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lilosheqere5@gmail.com
 
